@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Radio.Interfaces;
 
-namespace Radio
+namespace Radio.Implementations
 {
     public class Battery:IBattery
     {

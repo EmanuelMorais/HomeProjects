@@ -1,4 +1,4 @@
-﻿namespace Radio
+﻿namespace Radio.Interfaces
 {
     public interface IBattery
     {
