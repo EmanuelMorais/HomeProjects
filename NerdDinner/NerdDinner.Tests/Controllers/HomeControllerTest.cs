@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Web.Mvc;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NerdDinner;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NerdDinner.Controllers;
+using System.Web.Mvc;
 
 namespace NerdDinner.Tests.Controllers
 {
